@@ -1,1 +1,1 @@
-# BMI-Calculator
+This is a simple BMI (Body Mass Index) Calculator built using HTML, CSS, and JavaScript. It allows users to input their weight (in kilograms) and height (in meters) to calculate their BMI and provides feedback on their weight category.
